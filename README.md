@@ -1,9 +1,9 @@
 
-### Instruction format
+### Instruction format :
 
-|  opcode  | reps   |  memA  |  memB  |  memDest  |  
-| -------- | ------ | ------ | ------ | --------- |
-|  xxxx    |  xxxx  |  xxxx  |  xxxx  |  xxxx     |  
+|  Opcode  | Repeats   |  MemA  |  MemB  |  MemDest  |  
+| -------- | --------- | ------ | ------ | --------- |
+|  xxxx    |    xx     |  xxxx  |  xxxx  |   xxxx    |  
 
 
 
