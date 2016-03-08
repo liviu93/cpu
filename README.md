@@ -1,10 +1,8 @@
-Simple bit addresable CPU with variable length operands
-
-Instruction structure:
-
-  opcode repeats ramAddra  ramAddrb  ramAddrdest 
-| xxxx  |   xx	|   xxxx  | xxxx    |   xxxx    | 
-
++--------+------+------+------+---------+
+| opcode | reps | memA | memB | memDest |
++--------+------+------+------+---------+
+| xxxx   | xxxx | xxxx | xxxx | xxxx    |
++--------+------+------+------+---------+
 
 
 
